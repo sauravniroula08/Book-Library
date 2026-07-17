@@ -1,6 +1,7 @@
 {
   "name": "book-library-app",
   "private": true,
+  "homepage": "https://sauravniroula08.github.io/Book-Library/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
